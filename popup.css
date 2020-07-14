@@ -15,7 +15,7 @@ body {
 
 .hourglass-container {
     position: relative;
-    top: 124px;
+    top: 125px;
     z-index: 1;
     display: flex;
     justify-content: center;
@@ -30,7 +30,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 2px 4px 0 rgba(6,57,66,.12);
     margin: 40px;
-    padding: 94px
+    padding: 40px
 }
 
 blockquote {
