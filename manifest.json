@@ -5,7 +5,7 @@
         "newtab":"lifecalendar.html"
     },
     "description": "An Extension that shows you how much life you have to live when you open a tab.",
-    "permissions": [ "tabs", "declarativeContent", "storage"],
+    "permissions": [ "tabs", "storage"],
 
     "browser_action": {
         "default_title": "Life Calendar",
