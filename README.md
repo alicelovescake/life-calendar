@@ -11,7 +11,7 @@ Download the Chrome Extension from the [Chrome Web Store]
 
 ## Inspiration
 
-Inspired by [Tim Urban's Wait But Why Ted Talk] (https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator) and [the Social Media Death Clock Chrome Extension](https://chrome.google.com/webstore/detail/social-media-death-clock/jjmjickedeooblgpimknfghpfffncfhb)
+Inspired by [Tim Urban's Wait But Why Ted Talk](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator) and [the Social Media Death Clock Chrome Extension](https://chrome.google.com/webstore/detail/social-media-death-clock/jjmjickedeooblgpimknfghpfffncfhb)
 
 ## Contributors
 
